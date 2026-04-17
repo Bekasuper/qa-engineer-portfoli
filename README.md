@@ -15,8 +15,8 @@
 - **Languages:** Казахский язык, Русский язык, English - B1(Intermediate)
 ## 📂 Практические проекты
 
-- **Тестирование API** — [postman-api-testing](https://github.com/Bekasuper/qa-engineer-portfoli/blob/main/Test-Case%20POSTMAN.xlsx)
-- **Практика SQL** — [sql-practice](https://github.com/Bekasuper/qa-engineer-portfoli/blob/main/Test-Case%20SQL.xlsx)
+- **Тестирование API** — [postman-api-testing](https://github.com/Bekasuper/qa-engineer-portfoli/blob/main/Test-case/Test-Case%20POSTMAN.xlsx)
+- **Практика SQL** — [sql-practice](https://github.com/Bekasuper/qa-engineer-portfoli/blob/main/Test-case/Test-Case%20SQL.xlsx)
 - Чек-листы, тест-кейсы и баг-репорты для веб-приложений
 
 ## 🎯 Цели

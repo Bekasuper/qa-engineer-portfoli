@@ -11,7 +11,7 @@
 - **Базы данных**: SQL (SELECT, JOIN, INSERT, UPDATE, DELETE)
 - **Инструменты**: Git, GitHub, Jira, Confluence, Chrome DevTools
 - **DevOps basics**: Docker, Linux (базовые команды), работа с логами
-
+- **Языки программирование: Python, Javascript**
 ## 📂 Практические проекты
 
 - **Тестирование API** — [postman-api-testing](https://github.com/Bekasuper/postman-api-testing)
@@ -23,8 +23,8 @@
 - Освоить автотесты (Selenium/Python) в ближайшие 3–4 месяца
 
 ## 📬 Контакты
-- Telegram: [@твой_ник](https://t.me/твой_ник)
-- Email: (укажи свой)
+- Telegram: https://t.me/bekasuper_1
+- Email: bektibaybeknur@mail.ru
 - Город: Астана
 
 ---

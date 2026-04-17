@@ -11,7 +11,8 @@
 - **Базы данных**: SQL (SELECT, JOIN, INSERT, UPDATE, DELETE)
 - **Инструменты**: Git, GitHub, Jira, Confluence, Chrome DevTools
 - **DevOps basics**: Docker, Linux (базовые команды), работа с логами
-- **Языки программирование: Python, Javascript**
+- **Языки программирование:** Python, Javascript
+- **Languages:** Казахский язык, Русский язык, English - B1(Intermediate)
 ## 📂 Практические проекты
 
 - **Тестирование API** — [postman-api-testing](https://github.com/Bekasuper/postman-api-testing)

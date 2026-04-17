@@ -20,7 +20,7 @@
 
 ## 🎯 Цели
 - Найти первую работу Junior Manual QA Engineer
-- Освоить автотесты (Selenium/Python) в ближайшие 3–4 месяца
+- Освоить автотесты (Selenium/Python) в ближайшие 1-2 месяца
 
 ## 📬 Контакты
 - Telegram: https://t.me/bekasuper_1

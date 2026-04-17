@@ -1,4 +1,4 @@
-# Beka | Junior Manual QA Engineer
+# Бекнур Бектибай | Junior Manual QA Engineer
 
 Привет! Я начинающий Manual QA Engineer из Астаны.  
 Прошёл курс «С нуля до Junior Manual QA инженера» и активно практикуюсь.
